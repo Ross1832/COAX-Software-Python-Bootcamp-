@@ -132,6 +132,7 @@ dmypy.json
 postgres-data/
 # editor-specific
 /.idea/*
+.idea/*
 *~
 *.autosave
 

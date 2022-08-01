@@ -1,3 +1,5 @@
+django/static/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +129,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+postgres-data/
+# editor-specific
+/.idea/*
+*~
+*.autosave
+
+# env-specific
+app/.env
+/venv/*
+
+# python-specific
+*.pyc
+*.pyo
+*/__pycache__/*
+*.swp
+*.swo
